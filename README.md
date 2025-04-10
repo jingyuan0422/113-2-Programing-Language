@@ -8,4 +8,3 @@
 * [Coding](HW1/HW1.ipynb)
 
 This program automatically generates travel itineraries for the Greater Taipei area. By entering the number of travel days (1–5), users receive optimized daily schedules tailored to attraction types and locations.
-![圖片名稱](Autogen_Project/HW1/Flow_chart.png)

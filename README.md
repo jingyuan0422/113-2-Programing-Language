@@ -5,7 +5,7 @@
 
 ## Homework
 ### HW1
-* [Coding](Autogen_Project/HW1/dataAgent_US_Market.py)
+* [Coding](HW1/HW1.ipynb)
 
-Analyzing the past three years of the U.S. stock market using AI agents to conduct macroeconomic and industry analysis, generate investment portfolio recommendations, and assess associated risks.
+This program automatically generates travel itineraries for the Greater Taipei area. By entering the number of travel days (1–5), users receive optimized daily schedules tailored to attraction types and locations.
 ![圖片名稱](Autogen_Project/HW1/Flow_chart.png)

@@ -23,3 +23,9 @@ This program automatically generates travel itineraries for the Greater Taipei a
 * **Chart 4: Scatter Plot – GDP vs CO₂ Emissions by Country**  
   This chart explores the relationship between GDP per capita and total annual CO₂ emissions. The United States shows high GDP per capita with substantial emissions. China, despite lower GDP per capita, has the highest total emissions. India, with low GDP per capita, also emits a significant amount. The chart suggests that both economic output and population size influence emissions, not just wealth alone.
 ![圖片名稱](HW2/chart4_ScatterPlot.png)
+
+***
+
+## Final Project--
+
+

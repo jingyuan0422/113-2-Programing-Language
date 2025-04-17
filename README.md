@@ -27,17 +27,33 @@ This program automatically generates travel itineraries for the Greater Taipei a
 ### HW3
 * [Coding](HW3/HW3.ipynb)
 ![圖片名稱](HW3/KMeans_PCA.png)
-| Cluster | Location    | Key Characteristics                                                                 | Suggested Investment Style           |
-|:-------:|:------------|:------------------------------------------------------------------------------------|:-------------------------------------|
-| **0**   | Upper‑right | • High PCA1 & High PCA2  
-• High return & Sharpe, but also high volatility & volume | **Aggressive:** High‑risk, high‑reward |
-| **1**   | Lower‑left  | • Low PCA1 & Low PCA2  
-• Low return, low Sharpe, low volatility & low volume       | **Defensive:** Low‑risk, stable       |
-| **2**   | Lower‑right | • High PCA1 & Lower PCA2  
-• High return & Sharpe, but moderate‑to‑low volatility & volume | **Balanced:** Controlled risk, good return |
-| **3**   | Upper‑left  | • Lower PCA1 & High PCA2  
-• High volatility & volume, but middling return & Sharpe | **Speculative:** High‑volatility plays |
+- **Cluster 0**  
+  - **Location:** Upper‑right  
+  - **Key Characteristics:**  
+    - High PCA1 & High PCA2  
+    - High return & Sharpe, but also high volatility & volume  
+  - **Suggested Investment Style:** Aggressive (High‑risk, high‑reward)
 
+- **Cluster 1**  
+  - **Location:** Lower‑left  
+  - **Key Characteristics:**  
+    - Low PCA1 & Low PCA2  
+    - Low return, low Sharpe, low volatility & low volume  
+  - **Suggested Investment Style:** Defensive (Low‑risk, stable)
+
+- **Cluster 2**  
+  - **Location:** Lower‑right  
+  - **Key Characteristics:**  
+    - High PCA1 & Lower PCA2  
+    - High return & Sharpe, but moderate‑to‑low volatility & volume  
+  - **Suggested Investment Style:** Balanced (Controlled risk, good return)
+
+- **Cluster 3**  
+  - **Location:** Upper‑left  
+  - **Key Characteristics:**  
+    - Lower PCA1 & High PCA2  
+    - High volatility & volume, but middling return & Sharpe  
+  - **Suggested Investment Style:** Speculative (High‑volatility plays)
 
 ***
 

@@ -29,7 +29,7 @@ This program automatically generates travel itineraries for the Greater Taipei a
 ![圖片名稱](HW3/KMeans_PCA.png)
 
 
-#### **PCA**  
+#### **KMeans Analysis**  
 **1. Cluster 0 - Aggressive**  
 Stocks here score high on both PCA1 and PCA2, meaning they offer high returns and strong risk‑adjusted performance (Sharpe) but come with large price swings and high trading volume.  
   - Examples: TSLA, NVDA

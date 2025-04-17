@@ -31,23 +31,23 @@ This program automatically generates travel itineraries for the Greater Taipei a
 
 - **KMeans Analysis**  
 **1. Cluster 0 - Aggressive**  
-  - tocks here score high on both PCA1 and PCA2, meaning they offer high returns and strong risk‑adjusted performance (Sharpe) but come with large price swings and high trading volume.
+  - Stocks here score high on both PCA1 and PCA2, meaning they offer high returns and strong risk‑adjusted performance (Sharpe) but come with large price swings and high trading volume.
   - Examples: TSLA, NVDA
   - Investor fit: Those willing to tolerate big ups and downs for the chance of outsized gains.
 
 **2. Cluster 1 - Defensive**  
-Positioned in the bottom‑left, these stocks exhibit low returns, low volatility, low Sharpe, and low volume—characteristics of stable, capital‑preserving investments.  
+  - Positioned in the bottom‑left, these stocks exhibit low returns, low volatility, low Sharpe, and low volume—characteristics of stable, capital‑preserving investments.
   - Examples: KO, JNJ
   - Investor fit: Risk‑averse investors seeking minimal price fluctuation.
 
 **3. Cluster 2 - Balanced**  
-Found in the lower‑right quadrant: high risk‑adjusted returns (PCA1) paired with moderate‑to‑low volatility and volume.  
+  - Found in the lower‑right quadrant: high risk‑adjusted returns (PCA1) paired with moderate‑to‑low volatility and volume.
   - Investor fit: Those seeking a middle ground—solid returns without extreme risk.
 
 **4. Cluster 3 - Speculative**  
-In the upper‑left, these stocks have high volatility and trading activity (PCA2) but only average returns and Sharpe.  
+  - In the upper‑left, these stocks have high volatility and trading activity (PCA2) but only average returns and Sharpe.
   - Investor fit: Short‑term traders or speculators looking to capitalize on volatility rather than steady performance.
-***
+
 
 ## Final Project--ResuAI 智慧履歷分析平台
 * [第一次提案審查](https://youtu.be/wCUb0VOu1YE)

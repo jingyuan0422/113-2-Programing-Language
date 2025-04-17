@@ -24,6 +24,22 @@ This program automatically generates travel itineraries for the Greater Taipei a
   This chart explores the relationship between GDP per capita and total annual CO₂ emissions. The United States shows high GDP per capita with substantial emissions. China, despite lower GDP per capita, has the highest total emissions. India, with low GDP per capita, also emits a significant amount. The chart suggests that both economic output and population size influence emissions, not just wealth alone.
 ![圖片名稱](HW2/chart4_ScatterPlot.png)
 
+### HW3
+* [Coding](HW3/HW3.ipynb)
+![圖片名稱](HW3/KMeans_PCA.png)
+| Cluster | Location      | Key Characteristics                                                                 | Suggested Investment Style           |
+|:-------:|:--------------|:------------------------------------------------------------------------------------|:-------------------------------------|
+| **0**   | Upper‑right   | • High PCA1 & High PCA2<br>• High return & Sharpe, but also high volatility & volume | **Aggressive:** High‑risk, high‑reward |
+| **1**   | Lower‑left    | • Low PCA1 & Low PCA2<br>• Low return, low Sharpe, low volatility & low volume       | **Defensive:** Low‑risk, stable       |
+| **2**   | Lower‑right   | • High PCA1 & Lower PCA2<br>• High return & Sharpe, but moderate‑to‑low volatility & volume | **Balanced:** Controlled risk, good return |
+| **3**   | Upper‑left    | • Lower PCA1 & High PCA2<br>• High volatility & volume, but middling return & Sharpe | **Speculative:** High‑volatility plays |
+
+
+
+
+
+
+
 ***
 
 ## Final Project--ResuAI 智慧履歷分析平台

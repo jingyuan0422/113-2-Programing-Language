@@ -12,15 +12,18 @@ This program automatically generates travel itineraries for the Greater Taipei a
 ### HW2
 * [Coding](HW2/HW2.ipynb)
 * **Chart 1: Contributions to the Change in Global Mean Surface Temperature (1850–2023)**  
+
   This line chart illustrates the percentage contributions of major countries to global mean surface temperature change from 1850 to 2023. It reflects long-term trends in global warming responsibility. In recent years, the United States’ contribution has declined to 17.24% in 2023. Meanwhile, China’s share has steadily increased, reaching 12.94%, making it the second-largest contributor.
 ![圖片名稱](HW2/chart1_LineGraph.png)
 
 * **Chart 2 & 3: 2023 CO₂ Emissions by Country (Bar Chart and Pie Chart)**  
+
   These charts present both the total CO₂ emissions and each country's share in 2023. China is the largest emitter with 11.9 billion tons, followed by the U.S. (4.9 billion tons) and India (3.1 billion tons). The pie chart shows their respective global shares: China (31.5%), the U.S. (13%), and India (8.1%). Together, these three countries account for over half of global emissions, highlighting the disproportionate impact of a few nations.
 ![圖片名稱](HW2/chart2_BarChart.png)
 ![圖片名稱](HW2/chart3_PieChart.png)
 
 * **Chart 4: Scatter Plot – GDP vs CO₂ Emissions by Country**  
+
   This chart explores the relationship between GDP per capita and total annual CO₂ emissions. The United States shows high GDP per capita with substantial emissions. China, despite lower GDP per capita, has the highest total emissions. India, with low GDP per capita, also emits a significant amount. The chart suggests that both economic output and population size influence emissions, not just wealth alone.
 ![圖片名稱](HW2/chart4_ScatterPlot.png)
 

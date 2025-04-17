@@ -58,7 +58,17 @@ This program automatically generates travel itineraries for the Greater Taipei a
   - PCA1 captures risk-adjusted return (Sharpe) and overall return, while PCA2 reflects volatility and trading volume.
   - Cluster positions in the PCA space help interpret trade-offs: Clusters in the right half lean toward better returns, while those in the upper half show more volatility.
 
+- **Potential Investment Applications**
+  - **Portfolio construction:** These clusters can guide allocation strategies—e.g., balancing Cluster 2 (balanced growth) with Cluster 1 (defensive stability).
+  - **Risk segmentation:** Traders can focus on Cluster 3 for volatility plays, while long-term investors avoid it due to inconsistent performance.
+  - **Strategy matching:** The PCA+KMeans combo helps align stock selection with investor profiles more systematically than traditional sorting.
+
+- **Conclusion**
+  The KMeans clustering successfully grouped stocks into four distinct investment styles—aggressive, defensive, balanced, and speculative. Each cluster shows clear differences in return, volatility, and risk-adjusted performance. These insights can help investors match their risk preferences with the right stock group and build more targeted, diversified portfolios.
+
+
 ***
+
 
 ## Final Project--ResuAI 智慧履歷分析平台
 * [第一次提案審查](https://youtu.be/wCUb0VOu1YE)

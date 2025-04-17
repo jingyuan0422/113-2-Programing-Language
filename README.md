@@ -33,26 +33,28 @@ This program automatically generates travel itineraries for the Greater Taipei a
   **1. Cluster 0** (Upper‑right)  
     - Stocks here score high on both PCA1 and PCA2, meaning they offer high returns and strong risk‑adjusted performance (Sharpe) but come with large price swings and high trading volume.  
     - Examples: NaN
-    - Suggested Investment Style: Aggresive (High‑risk, high‑reward)
+    - Suggested Investment Style: Aggresive (high‑risk, high‑reward)
     - Investor fit: Those willing to tolerate big ups and downs for the chance of outsized gains.
 
-  **2. Cluster 1 - Defensive**  
-    - Positioned in the bottom‑left, these stocks exhibit low returns, low volatility, low Sharpe, and low volume—characteristics of stable, capital‑preserving investments.  
-    - Examples: KO, JNJ  
+  **2. Cluster 1** (Lower‑left)  
+    - These stocks exhibit low returns, low volatility, low Sharpe, and low volume—characteristics of stable, capital‑preserving investments.  
+    - Examples: JNJ, UNH
+    - Suggested Investment Style: Defensive (low‑risk, stable)
     - Investor fit: Risk‑averse investors seeking minimal price fluctuation.
 
-  **3. Cluster 2 - Balanced**  
-    - Found in the lower‑right quadrant: high risk‑adjusted returns (PCA1) paired with moderate‑to‑low volatility and volume.  
-    - Examples: AAPL, AMZN  
+  **3. Cluster 2** (Lower‑right)  
+    - High risk‑adjusted returns (PCA1) paired with moderate‑to‑low volatility and volume.  
+    - Examples: NVDA, TSLA, AVGO
+    - Suggested Investment Style: Balanced (controlled risk, good return)
     - Investor fit: Those seeking a middle ground—solid returns without extreme risk.
 
-  **4. Cluster 3 - Speculative**  
-    - In the upper‑left, these stocks have high volatility and trading activity (PCA2) but only average returns and Sharpe.  
-    - Examples: NFLX, GME  
+  **4. Cluster 3** (Upper‑left)  
+    - These stocks have high volatility and trading activity (PCA2) but only average returns and Sharpe.  
+    - Examples: WMT, COST, TMUS
+    - Suggested Investment Style: Speculative (high‑volatility plays)
     - Investor fit: Short‑term traders or speculators looking to capitalize on volatility rather than steady performance.
 
-
-
+***
 
 ## Final Project--ResuAI 智慧履歷分析平台
 * [第一次提案審查](https://youtu.be/wCUb0VOu1YE)

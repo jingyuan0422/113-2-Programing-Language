@@ -34,34 +34,12 @@ This program automatically generates travel itineraries for the Greater Taipei a
   - Examples: TSLA, NVDA
   - Investor fit: Those willing to tolerate big ups and downs for the chance of outsized gains.
   
+# Clusters
 
-- **Cluster 0**  
-  - **Location:** Upper‑right  
-  - **Key Characteristics:**  
-    - High PCA1 & High PCA2  
-    - High return & Sharpe, but also high volatility & volume  
-  - **Suggested Investment Style:** Aggressive (High‑risk, high‑reward)
-
-- **Cluster 1**  
-  - **Location:** Lower‑left  
-  - **Key Characteristics:**  
-    - Low PCA1 & Low PCA2  
-    - Low return, low Sharpe, low volatility & low volume  
-  - **Suggested Investment Style:** Defensive (Low‑risk, stable)
-
-- **Cluster 2**  
-  - **Location:** Lower‑right  
-  - **Key Characteristics:**  
-    - High PCA1 & Lower PCA2  
-    - High return & Sharpe, but moderate‑to‑low volatility & volume  
-  - **Suggested Investment Style:** Balanced (Controlled risk, good return)
-
-- **Cluster 3**  
-  - **Location:** Upper‑left  
-  - **Key Characteristics:**  
-    - Lower PCA1 & High PCA2  
-    - High volatility & volume, but middling return & Sharpe  
-  - **Suggested Investment Style:** Speculative (High‑volatility plays)
+1. **Cluster 0**  
+   Stocks here score high on both PCA1 and PCA2, meaning they offer high returns and strong risk‑adjusted performance (Sharpe) but come with large price swings and high trading volume.  
+   Examples: TSLA, NVDA  
+   Investor fit: Those willing to tolerate big ups and downs for the chance of outsized gains.
 
 ***
 

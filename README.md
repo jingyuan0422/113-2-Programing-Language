@@ -28,13 +28,12 @@ This program automatically generates travel itineraries for the Greater Taipei a
 * [Coding](HW3/HW3.ipynb)
 ![圖片名稱](HW3/KMeans_PCA.png)
 
-
 - **KMeans Analysis**
 
-  **1. Cluster 0 - Aggressive**  
-    - Location: Upper‑right
+  **1. Cluster 0** (Upper‑right)  
     - Stocks here score high on both PCA1 and PCA2, meaning they offer high returns and strong risk‑adjusted performance (Sharpe) but come with large price swings and high trading volume.  
-    - Examples: NaN  
+    - Examples: NaN
+    - Suggested Investment Style: Aggresive (High‑risk, high‑reward)
     - Investor fit: Those willing to tolerate big ups and downs for the chance of outsized gains.
 
   **2. Cluster 1 - Defensive**  

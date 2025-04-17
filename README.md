@@ -54,6 +54,10 @@ This program automatically generates travel itineraries for the Greater Taipei a
     - Suggested Investment Style: Speculative (high‑volatility plays)
     - Investor fit: Short‑term traders or speculators looking to capitalize on volatility rather than steady performance.
 
+- **Patterns Across PCA Dimensions**
+  - PCA1 captures risk-adjusted return (Sharpe) and overall return, while PCA2 reflects volatility and trading volume.
+  - Cluster positions in the PCA space help interpret trade-offs: Clusters in the right half lean toward better returns, while those in the upper half show more volatility.
+
 ***
 
 ## Final Project--ResuAI 智慧履歷分析平台

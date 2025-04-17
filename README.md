@@ -39,8 +39,6 @@ This program automatically generates travel itineraries for the Greater Taipei a
 • High volatility & volume, but middling return & Sharpe | **Speculative:** High‑volatility plays |
 
 
-
-
 ***
 
 ## Final Project--ResuAI 智慧履歷分析平台

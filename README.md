@@ -75,6 +75,8 @@ This program automatically generates travel itineraries for the Greater Taipei a
 
 ### HW4
 * [Coding](HW4/HW4.ipynb)
+* Based on the word cloud and frequency chart, the term **「服務」** stands out with 467 mentions, indicating that customers highly value the overall service experience. Other frequently mentioned words like 「好吃」, **「餐點」, 「牛排」, and 「甜點」** suggest that food quality is a major focus in customer reviews.
+* 
 ![圖片名稱](HW4/WordCloud.png)
 ![圖片名稱](HW4/keywords_chart.png)
 

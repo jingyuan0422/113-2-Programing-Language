@@ -82,7 +82,6 @@ This program automatically generates travel itineraries for the Greater Taipei a
 ![圖片名稱](HW4/WordCloud.png)
 ![圖片名稱](HW4/keywords_chart.png)
 ![圖片名稱](HW4/rating_chart.png)
-
 * Based on customer feedback and word frequency analysis, here are some personalized recommendations for the restaurant from Gemini:
 ```python
 ## 餐廳顧客評論摘要與情緒分析

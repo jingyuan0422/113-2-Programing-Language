@@ -83,6 +83,15 @@ This program automatically generates travel itineraries for the Greater Taipei a
 ![圖片名稱](HW4/keywords_chart.png)
 ![圖片名稱](HW4/rating_chart.png)
 
+# 程式碼範例
+
+以下是 Python 程式碼範例，展示如何在 GitHub 的 Markdown 中嵌入程式碼：
+
+```python
+def greet():
+    print("Hello, World!")
+
+greet()
 
 ***
 

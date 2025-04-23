@@ -7,6 +7,7 @@
 ### HW1
 * [Coding](HW1/HW1.ipynb)
 
+
 This program automatically generates travel itineraries for the Greater Taipei area. By entering the number of travel days (1–5), users receive optimized daily schedules tailored to attraction types and locations.
 
 ### HW2
@@ -26,6 +27,7 @@ This program automatically generates travel itineraries for the Greater Taipei a
 
   This chart explores the relationship between GDP per capita and total annual CO₂ emissions. The United States shows high GDP per capita with substantial emissions. China, despite lower GDP per capita, has the highest total emissions. India, with low GDP per capita, also emits a significant amount. The chart suggests that both economic output and population size influence emissions, not just wealth alone.
 ![圖片名稱](HW2/chart4_ScatterPlot.png)
+
 
 ### HW3
 * [Coding](HW3/HW3.ipynb)
@@ -69,6 +71,7 @@ This program automatically generates travel itineraries for the Greater Taipei a
 - **Conclusion**  
 
   The KMeans clustering successfully grouped stocks into four distinct investment styles—aggressive, defensive, balanced, and speculative. Each cluster shows clear differences in return, volatility, and risk-adjusted performance. These insights can help investors match their risk preferences with the right stock group and build more targeted, diversified portfolios.
+
 
 ### HW4
 * [Coding](HW4/HW4.ipynb)

@@ -75,8 +75,10 @@ This program automatically generates travel itineraries for the Greater Taipei a
 
 ### HW4
 * [Coding](HW4/HW4.ipynb)
-* Based on the word cloud and frequency chart, the term **「服務」** stands out with 467 mentions, indicating that customers highly value the overall service experience. Other frequently mentioned words like 「好吃」, **「餐點」, 「牛排」, and 「甜點」** suggest that food quality is a major focus in customer reviews.
-* 
+* Based on the word cloud and frequency chart, the term **「服務」** stands out with 467 mentions, indicating that customers highly value the overall service experience. Other frequently mentioned words like **「好吃」,「餐點」, 「牛排」, and 「甜點」** suggest that food quality is a major focus in customer reviews.
+* The frequent appearance of terms such as **「牛小排」** implies that the restaurant may be part of the Wang Steak group or that these are popular signature items among diners.
+* Words conveying emotion—such as **「親切」,「不錯」,「美味」, and 「很棒」**—are mostly positive, indicating that most customers had a satisfying or even delightful dining experience.
+
 ![圖片名稱](HW4/WordCloud.png)
 ![圖片名稱](HW4/keywords_chart.png)
 

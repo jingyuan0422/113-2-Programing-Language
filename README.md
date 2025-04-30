@@ -2,7 +2,7 @@
 * 姓名：黃靖媛
 * 授課教師: 蔡芸琤老師
 
-**
+*
 
 ## Final Project--ResuAI 智慧履歷分析平台
 * [第一次提案審查](https://youtu.be/wCUb0VOu1YE)

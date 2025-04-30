@@ -3,6 +3,14 @@
 * 授課教師: 蔡芸琤老師
 
 
+## Final Project--ResuAI 智慧履歷分析平台
+* [第一次提案審查](https://youtu.be/wCUb0VOu1YE)
+* [第二次進度追蹤](https://youtu.be/zucZ3Vr_WPc)
+
+
+***
+
+
 ## Homework
 ### HW1
 * [Coding](HW1/HW1.ipynb)
@@ -129,11 +137,3 @@ This program automatically generates travel itineraries for the Greater Taipei a
 
 總之，王品需要正視顧客對服務品質、餐點品質和價值體驗的疑慮，並採取具體措施進行改善，才能維持品牌形象和顧客忠誠度。
 ```
-
-***
-
-
-## Final Project--ResuAI 智慧履歷分析平台
-* [第一次提案審查](https://youtu.be/wCUb0VOu1YE)
-
-

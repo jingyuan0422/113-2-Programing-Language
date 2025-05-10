@@ -141,6 +141,8 @@ This program automatically generates travel itineraries for the Greater Taipei a
 
 ### HW5
 * [Coding](HW5/HW5.ipynb)
-* I chose this travel article as the data source because it reflects most blog posts online—content-rich but poorly structured with scattered information. By applying word segmentation and named entity recognition (NER), I reorganized the article into clear categories like “Attractions,” “Food,” and “Transportation,” helping readers quickly grasp key points. If scaled—such as by using web crawlers to gather large volumes of travel content—this method could automatically generate summaries, significantly reducing the time needed for trip planning and improving information retrieval efficiency.
+* I chose this travel article as the data source because it reflects most blog posts online—content-rich but poorly structured with scattered information. By applying word segmentation and named entity recognition (NER), I reorganized the article into clear categories like “Attractions,” “Food," “Transportation,” and "feelings" helping readers quickly grasp key points. If scaled—such as by using web crawlers to gather large volumes of travel content—this method could automatically generate summaries, significantly reducing the time needed for trip planning and improving information retrieval efficiency.
 
-* 
+* ![Foods](HW5/foods.png)
+* ![Feelings](HW5/feelings.png)
+* The statistical results show that local delicacies like **酸奶** and **青稞** (a traditional dish) are mentioned frequently, indicating the author’s strong focus on and interest in local cuisine. The word cloud also highlights the frequent use of positive terms such as **幸福**," **不可思議**, and **快樂** suggesting that the overall trip was a pleasant and emotionally positive experience.

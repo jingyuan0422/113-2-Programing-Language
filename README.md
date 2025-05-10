@@ -147,6 +147,7 @@ This program automatically generates travel itineraries for the Greater Taipei a
 ![圖片名稱](HW5/foods.png)
 ![圖片名稱](HW5/feelings.png)
 * The statistical results show that local delicacies like **酸奶** and **青稞** (a traditional dish) are mentioned frequently, indicating the author’s strong focus on and interest in local cuisine. The word cloud also highlights the frequent use of positive terms such as **幸福**," **不可思議**, and **快樂** suggesting that the overall trip was a pleasant and emotionally positive experience.
+
 * Based on the full article and NER analysis, here are some recommendations for visitors from Gemini:
 ```python
 好的，根據文章內容，以下是總結、結論以及給有意前往西藏旅遊的遊客的建議和注意事項：
@@ -183,6 +184,5 @@ This program automatically generates travel itineraries for the Greater Taipei a
 希望這些建議能幫助您更好地規劃西藏之旅！
 ```
 
-* 
-
-
+* **Challenges and Insights from Word Segmentation and NER Analysis**
+  One of the main challenges in word segmentation and NER is classification ambiguity. Some terms can belong to different categories depending on the context—for example, “station” might refer to a tourist attraction or a mode of transportation. To address this, I believe more rigorous classification criteria are necessary. In the future, exploring additional text mining tools could help improve both the accuracy and consistency of the classification process.

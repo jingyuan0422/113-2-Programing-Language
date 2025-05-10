@@ -137,3 +137,10 @@ This program automatically generates travel itineraries for the Greater Taipei a
 
 總之，王品需要正視顧客對服務品質、餐點品質和價值體驗的疑慮，並採取具體措施進行改善，才能維持品牌形象和顧客忠誠度。
 ```
+
+
+### HW5
+* [Coding](HW5/HW5.ipynb)
+* I chose this travel article as the data source because it reflects most blog posts online—content-rich but poorly structured with scattered information. By applying word segmentation and named entity recognition (NER), I reorganized the article into clear categories like “Attractions,” “Food,” and “Transportation,” helping readers quickly grasp key points. If scaled—such as by using web crawlers to gather large volumes of travel content—this method could automatically generate summaries, significantly reducing the time needed for trip planning and improving information retrieval efficiency.
+
+* 

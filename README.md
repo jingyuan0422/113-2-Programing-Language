@@ -141,8 +141,48 @@ This program automatically generates travel itineraries for the Greater Taipei a
 
 ### HW5
 * [Coding](HW5/HW5.ipynb)
-* I chose this travel article as the data source because it reflects most blog posts online—content-rich but poorly structured with scattered information. By applying word segmentation and named entity recognition (NER), I reorganized the article into clear categories like “Attractions,” “Food," “Transportation,” and "feelings" helping readers quickly grasp key points. If scaled—such as by using web crawlers to gather large volumes of travel content—this method could automatically generate summaries, significantly reducing the time needed for trip planning and improving information retrieval efficiency.
+* **Why did I choose this dataset and theme for the NER analysis?**
+  I chose this travel article as the data source because it reflects most blog posts online—content-rich but poorly structured with scattered information. By applying word segmentation and named entity recognition (NER), I reorganized the article into clear categories like “Attractions,” “Food," “Transportation,” and "feelings" helping readers quickly grasp key points. If scaled—such as by using web crawlers to gather large volumes of travel content—this method could automatically generate summaries, significantly reducing the time needed for trip planning and improving information retrieval efficiency.
 
-* ![Foods](HW5/foods.png)
-* ![Feelings](HW5/feelings.png)
+* ![圖片名稱](HW5/foods.png)
+* ![圖片名稱](HW5/feelings.png)
 * The statistical results show that local delicacies like **酸奶** and **青稞** (a traditional dish) are mentioned frequently, indicating the author’s strong focus on and interest in local cuisine. The word cloud also highlights the frequent use of positive terms such as **幸福**," **不可思議**, and **快樂** suggesting that the overall trip was a pleasant and emotionally positive experience.
+* Based on the full article and NER analysis, here are some recommendations for visitors from Gemini:
+```python
+好的，根據文章內容，以下是總結、結論以及給有意前往西藏旅遊的遊客的建議和注意事項：
+
+**文章總結：**
+
+這篇文章是一位台灣遊客分享她前往西藏旅遊的經歷。旅程主要包括搭乘青藏鐵路前往拉薩，遊覽布達拉宮等著名景點，以及前往日喀則地區的絨布寺和珠峰大本營。作者詳細描述了旅途中的所見所聞，包括壯麗的自然風光、獨特的人文風情，以及高原反應帶來的挑戰。她也分享了搭乘青藏鐵路、購買車票、在西藏的交通方式，以及在高原地區的飲食、住宿等方面的經驗。
+
+**結論：**
+
+西藏之旅充滿了令人難以置信的體驗，但也伴隨著高原反應等挑戰。儘管存在一些限制（如台灣遊客無法自助旅行、需要辦理入藏函等），但透過旅行社的安排，依然可以欣賞到西藏獨特的自然風光和文化。
+
+**給有意前往西藏旅遊的遊客的建議和注意事項：**
+
+*   **行程規劃：**
+    *   **提前預訂：** 青藏鐵路車票對台灣遊客有購買限制，且西藏不允許自助旅行，務必提前透過旅行社預訂行程、車票及辦理入藏函。
+    *   **交通考量：** 前往西藏的交通方式多樣，包括飛機和火車。火車雖然耗時較長（例如，44 小時），但可以逐漸適應海拔高度。
+    *   **行程安排：** 西藏的景點分散，建議規劃至少十天以上的行程，以便充分體驗各地的風光。
+*   **健康與安全：**
+    *   **高原反應：** 高原反應是西藏旅遊的主要挑戰。建議提前諮詢醫生，準備相關藥物（例如，高原康）。在旅途中注意放慢節奏，避免過度勞累，並隨時補充水分。
+    *   **身體狀況：** 出發前評估自己的身體狀況，確保適合前往高海拔地區。
+    *   **緊急應對：** 了解高原反應的症狀和應對方法，並與導遊保持密切聯繫。
+*   **生活與文化：**
+    *   **住宿條件：** 西藏的住宿條件相對簡樸，特別是在偏遠地區（如珠峰大本營）。要有心理準備，可能無法每天洗澡，且住宿環境較為簡陋。
+    *   **飲食習慣：** 西藏的飲食以藏餐為主，如糌粑、酥油茶等。可以嘗試當地特色美食，但也要注意飲食衛生，避免腸胃不適。
+    *   **尊重文化：** 尊重當地的宗教信仰和風俗習慣。在寺廟等宗教場所，注意言行舉止，並聽從導遊的指示。
+*   **其他建議：**
+    *   **衣物準備：** 西藏的氣候多變，早晚溫差大。建議攜帶保暖衣物（如羽絨服）、防曬用品（如帽子、太陽眼鏡、防曬霜）以及雨具。
+    *   **現金準備：** 在西藏，行動支付的普及度可能不如其他地區。建議攜帶足夠的現金，以應付交通、餐飲和購物等需求。
+    *   **通訊：** 購買當地的 SIM 卡，以便隨時保持聯繫。
+    *   **明信片：** 珠峰大本營有世界最高的郵局，可以寄送具有特殊意義的明信片。
+    *   **攝影：** 西藏的自然風光非常適合攝影。準備好相機和足夠的儲存空間，記錄下美好的瞬間。
+
+希望這些建議能幫助您更好地規劃西藏之旅！
+```
+
+* 
+
+

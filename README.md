@@ -184,5 +184,5 @@ This program automatically generates travel itineraries for the Greater Taipei a
 希望這些建議能幫助您更好地規劃西藏之旅！
 ```
 
-* **Challenges and Insights from Word Segmentation and NER Analysis**
+* **Challenges and Insights from Word Segmentation and NER Analysis**    
   One of the main challenges in word segmentation and NER is classification ambiguity. Some terms can belong to different categories depending on the context—for example, “station” might refer to a tourist attraction or a mode of transportation. To address this, I believe more rigorous classification criteria are necessary. In the future, exploring additional text mining tools could help improve both the accuracy and consistency of the classification process.

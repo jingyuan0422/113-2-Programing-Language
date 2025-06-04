@@ -14,9 +14,9 @@ This project is a résumé analysis platform that leverages natural language pro
 
 
 ### Features
-📌 Automatically matches résumés with job descriptions, providing analysis of both hard and soft skill alignment
-📊 Visualizes résumé content to display the types and distribution of experiences
-⚡ Real-time interactive interface with user-friendly experience
+📌 Automatically matches résumés with job descriptions, providing analysis of both hard and soft skill alignment    
+📊 Visualizes résumé content to display the types and distribution of experiences    
+⚡ Real-time interactive interface with user-friendly experience    
 📝 One-click generation of a comprehensive recommendation report to guide résumé optimization
 
 ### Directory Structure
